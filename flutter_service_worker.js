@@ -34,7 +34,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "b86c549722bbda131fe41aeed1449a22
 "manifest.json": "45129c2515d186be0c4b46205cb9b210",
 "version.json": "0658e943010472c5c33481ebc9b68eea"};
 // The application shell files that are downloaded before a service worker can
-// start.
 const CORE = ["main.dart.js",
 "index.html",
 "assets/AssetManifest.json",
